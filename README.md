@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamarnabdas
-- 👀 I’m interested in cryptography
+- 👀 I’m interested in cryptography and machine learning
 - 🌱 I’m currently learning cryptography
 - 💞️ I’m looking to collaborating on ...
 - 📫 How to reach me ...
